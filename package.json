@@ -1,0 +1,14 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "Uma API RESTful simples desenvolvida com Node.js e Express.js para gerenciar tarefas de um aplicativo de lista de tarefas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
